@@ -1,0 +1,8 @@
+Started by user [8mha:////4B41AlYHgRrBPuG7/PuaXRmoWNq77Bp5LuLRfTeYlvR5AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgZh/dLi1CL9zJLEnHygtalVuUmJAObLr1zIAAAA[0mItalo E Perez Arribaspla
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/checkForCurrentDate
+[checkForCurrentDate] $ /bin/sh -xe /tmp/jenkins5735398201483777355.sh
++ date
++ echo will fuk you on  Fri Jan 10 14:56:17 UTC 2020
+will fuk you on  Fri Jan 10 14:56:17 UTC 2020
+Finished: SUCCESS

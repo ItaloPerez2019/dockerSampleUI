@@ -1,0 +1,7 @@
+Started by user [8mha:////4B41AlYHgRrBPuG7/PuaXRmoWNq77Bp5LuLRfTeYlvR5AAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgZh/dLi1CL9zJLEnHygtalVuUmJAObLr1zIAAAA[0mItalo E Perez Arribaspla
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/myFirstJob
+[myFirstJob] $ /bin/sh -xe /tmp/jenkins1776510645310691473.sh
++ echo hello worl
+hello worl
+Finished: SUCCESS
